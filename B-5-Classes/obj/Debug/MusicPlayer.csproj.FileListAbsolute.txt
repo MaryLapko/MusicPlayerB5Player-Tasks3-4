@@ -1,0 +1,7 @@
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (2-2)\03-12-2018-master\B-5(7)-Classes\B-5-Classes\bin\Debug\Base.Lesson 5.exe.config
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (2-2)\03-12-2018-master\B-5(7)-Classes\B-5-Classes\bin\Debug\Base.Lesson 5.exe
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (2-2)\03-12-2018-master\B-5(7)-Classes\B-5-Classes\bin\Debug\Base.Lesson 5.pdb
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (2-2)\03-12-2018-master\B-5(7)-Classes\B-5-Classes\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (2-2)\03-12-2018-master\B-5(7)-Classes\B-5-Classes\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (2-2)\03-12-2018-master\B-5(7)-Classes\B-5-Classes\obj\Debug\Base.Lesson 5.exe
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (2-2)\03-12-2018-master\B-5(7)-Classes\B-5-Classes\obj\Debug\Base.Lesson 5.pdb
